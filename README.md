@@ -1,2 +1,2 @@
 # ReactBurgerApp
-A Burger app where user can select burger with different topping.
+React application where user can select burger with different topping.
